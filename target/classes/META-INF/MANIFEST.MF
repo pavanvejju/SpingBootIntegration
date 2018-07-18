@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pavankumarv
+Implementation-Vendor-Id: com.wc
+Build-Jdk: 1.8.0_102
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-s
+ ample/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
